@@ -1,0 +1,1 @@
+﻿SELECT 1 -- I dragged this file to Demo.resx in the Files section

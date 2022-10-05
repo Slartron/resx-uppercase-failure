@@ -1,0 +1,1 @@
+﻿SELECT 1 -- I added this file via Add Resource -> Add existing file
